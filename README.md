@@ -1,1 +1,2 @@
-# pitate-invation-1
+# PRO-C25-SA
+boilerplate code for student activituy
